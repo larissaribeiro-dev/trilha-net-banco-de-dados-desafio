@@ -37,7 +37,7 @@ Você precisará de um gerenciador de banco de dados compatível com **SQL Serve
 ### 2. Clonar o Repositório
 Abra o terminal e execute o comando abaixo para baixar os arquivos:
 ```bash
-git clone https://github.com/larissaribeiro-dev/trilha-net-banco-de-dados-desafio.git
+git clone https://github.com/SEU_USUARIO/trilha-net-banco-de-dados-desafio.git
 ```
 ### 3. Preparação do Banco de Dados
 1. Abra o arquivo Script Filmes.sql no seu editor de SQL.  
