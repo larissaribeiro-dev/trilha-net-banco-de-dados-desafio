@@ -40,11 +40,11 @@ Abra o terminal e execute o comando abaixo para baixar os arquivos:
 git clone https://github.com/SEU_USUARIO/trilha-net-banco-de-dados-desafio.git
 ```
 ### 3. Preparação do Banco de Dados
-1. Abra o arquivo Script Filmes.sql no seu editor de SQL.  
+1. Abra o arquivo `Script Filmes.sql` no seu editor de SQL.  
 2. Execute o script completo (pressione F5 ou clique em Executar).  
 
 ### 3. Executando as Consultas (Desafio)  
-As soluções para as 12 perguntas do desafio estão localizadas ao final do arquivo ```Script Filmes.sql.```
+As soluções para as 12 perguntas do desafio estão localizadas ao final do arquivo ```Script Filmes.sql```.
 
 Para visualizar o resultado de uma consulta específica:
 
@@ -53,4 +53,4 @@ Para visualizar o resultado de uma consulta específica:
 3. O resultado aparecerá na aba de resultados logo abaixo do editor.
 
 ---
-**Destaque Técnico:** Este projeto demonstra minha capacidade de navegar em esquemas relacionais e transformar requisitos de negócio em queries eficientes.
+Desenvolvido por [Larissa Ribeiro](https://github.com/larissaribeiro-dev)
